@@ -98,7 +98,7 @@ sell price -> {bread_price}$
 
 -croissant :
 buy price -> {croissant}$
-sell price -> {croissant_price}
+sell price -> {croissant_price}$
 """)
         if len(shell) != 7:
             no_else_bug = True
