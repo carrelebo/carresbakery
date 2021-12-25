@@ -72,7 +72,7 @@ avaible commands:
     
         if len(shell) != 4:
             no_else_bug = True
-            print(f"\nError, '{shell} is not the correct comman -> the correct command is 'exit'\n")
+            print(f"\nError, '{shell} is not the correct command -> the correct command is 'exit'\n")
 
 #clear commands-----------------------------------------------------------
 
