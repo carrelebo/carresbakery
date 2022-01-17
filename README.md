@@ -1,5 +1,6 @@
 carresbakery:
-Shell experimentation for futur Python librairies and other programs
+Shell experimentation for futur Python librairies and other programs;
+program code without 'elif' or 'else' conditions
 
 # For Windows system :
 download the 'carresbakery-windows.py' file
