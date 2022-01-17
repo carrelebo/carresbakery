@@ -1,6 +1,6 @@
 
 #Code by Benstitou Sofiane (carrelebo), start the 12/21/2021
-#Terminal interface experimentation for futur python libraries
+#Shell experimentation for futur python libraries
 
 #code editor and system that I used during tge development:
 #-app : Vim (code editor), OS : Regolith Linux (Ubuntu 20.04.3 based)
@@ -9,7 +9,7 @@
 
 import os
 
-print("\nwelcome to carre's bakery, for more informations type 'help' on the command input.\n")
+print("\nwelcome to carre's bakery, for more informations type 'help' on the shell.\n")
 
 #global variables:
 
