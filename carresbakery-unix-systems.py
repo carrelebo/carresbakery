@@ -9,7 +9,7 @@
 
 import os
 
-print("\nwelcome to carre's bakery, for more informations type 'help' on the shell.\n")
+print("\nwelcome to carre's bakery, for more informations type 'help' on the command input.\n")
 
 #global variables:
 
