@@ -1,6 +1,6 @@
 
 #Code by Benstitou Sofiane (carrelebo), start the 12/21/2021
-#shell experimentation for futur python libraries
+#Terminal interface experimentation for futur python libraries
 
 #code editor and system that I used during tge development:
 #-app : Vim (code editor), OS : Regolith Linux (Ubuntu 20.04.3 based)
