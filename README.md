@@ -1,5 +1,5 @@
 carresbakery:
-Shell experimentation for futur Python librairies and other programs;
+Terminal interface experimentation for futur Python librairies and other programs;
 program code without 'elif' or 'else' conditions
 
 # For Windows system :
